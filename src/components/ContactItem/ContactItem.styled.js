@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
 export const Button = styled.button`
   margin: 5px 0 20px 10px;
@@ -8,5 +8,3 @@ export const Button = styled.button`
 export const Li = styled.li`
   margin: -10px;
 `;
-// export const Div = styled.div`
-// `
